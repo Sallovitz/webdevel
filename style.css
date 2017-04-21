@@ -5,7 +5,7 @@
   Version: 1.0
 */
 
-/* Css Index 
+/* Css Index
 -----------------------------------
 1. Theme default css
 2. header
@@ -67,10 +67,10 @@ a, button {
   color: #444;
   outline: medium none;
 }
-.uppercase { 
+.uppercase {
   text-transform: uppercase;
 }
-.capitalize { 
+.capitalize {
   text-transform: capitalize;
 }
 h1,
@@ -93,7 +93,7 @@ h2 a,
 h3 a,
 h4 a,
 h5 a,
-h6 a { 
+h6 a {
     color: inherit;
 }
 h1 {
@@ -207,16 +207,16 @@ label {
   color: #ffffff !important;
 }
 .white-bg{background:#fff;}
- 
+
 .bg-1, .bg-2, .bg-3, .bg-4, .bg-5, .bg-6, .bg-7, .bg-8, .bg-9, .bg-10{
-  background-attachment: fixed; 
-  background-clip: initial; 
-  background-color: rgba(0, 0, 0, 0); 
-  background-origin: initial; 
-  background-position: center center; 
-  background-repeat: no-repeat; 
-  background-size: cover; 
-  position: relative; 
+  background-attachment: fixed;
+  background-clip: initial;
+  background-color: rgba(0, 0, 0, 0);
+  background-origin: initial;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
   z-index: 0;
 }
 /* opacity */
@@ -303,7 +303,7 @@ h1.breadcrumb-2 {
   letter-spacing: 5px;
 }
 .logo {
-  padding: 26px 0;
+  padding: 10px 0;
   transition: all 0.3s ease 0s;
 }
 .logo h4 {
@@ -317,7 +317,7 @@ h1.breadcrumb-2 {
   color: #222;
 }
 .sticky .logo {
-  padding: 19px 0;
+  padding: 5px 0;
 }
 .basic-area {
   position: relative;
@@ -694,7 +694,7 @@ nav.nav-menu-show {
 .portfolio-item{
   width: 33.33%;
     float: left;
-    margin-bottom: 20px;  
+    margin-bottom: 20px;
 }
 .portfolio-thumb img {
   width: 100%;
@@ -1595,7 +1595,7 @@ width: 35px;}
   text-align: center;
   width: 75px;
  border-color: #ffffff;
-color: #ffffff; 
+color: #ffffff;
 }
 @-webkit-keyframes pulse {
     to {

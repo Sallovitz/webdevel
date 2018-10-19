@@ -1534,9 +1534,12 @@ width: 35px;}
   letter-spacing: 3px;
   margin-bottom: 0;
 }
+
 .owl-carousel .owl-item .basic-clients img {
   width: inherit;
+  background-color: #ffffff;
 }
+
 .progress-title {
   font-size: 15px;
   font-weight: 500;
